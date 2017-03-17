@@ -1,7 +1,6 @@
 # mmqgis-fork-v2
 mmqgis based address geocoding with features added
-(Works with small number of addresses.
-Points freaures always created, but fails to exit properly after completion.)
+(Works with small number of addresses. Point freaures always created, but fails to exit properly after completion with large number of addresses.)
 
 -			Linear interpolation on curved streets
 -			Allowance for (numeric) post code alterations
